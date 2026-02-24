@@ -1,0 +1,12 @@
+{
+  "aliases": {
+    "release": "workflows/release-process",
+    "deploy": "workflows/deploy-without-summoning-the-pager",
+    "summon-pager": "workflows/deploy-without-summoning-the-pager",
+    "rollback": "workflows/rollback-ritual",
+    "status-update": "workflows/status-update-templates",
+    "friday-failures": "architecture/service-that-only-fails-on-fridays",
+    "name-things": "standards/naming-anti-patterns",
+    "say-what-you-mean": "glossary/polite-translations"
+  }
+}
