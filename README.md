@@ -1,4 +1,4 @@
-# knowledge-repo/
+# knowledge repo
 
 ## Purpose
 This repository stores canonical team knowledge in a stable, discoverable folder structure.
